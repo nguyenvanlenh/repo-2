@@ -1,0 +1,1 @@
+"const FULL_NAME = 'NGUYEN VAN LENH'" 
